@@ -12,7 +12,7 @@ async def main():
         '1.1.1.1',      # Cloudflare DNS
         '9.9.9.9',      # Quad9 DNS
         '208.67.222.222',  # OpenDNS
-        '999.999.999.999',  # Invalid IP (should error)
+        '999.999.999.999',  # This should be seen as an invalid IP (should error)
     ]
 
     print("=" * 70)
