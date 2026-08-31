@@ -31,8 +31,8 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-<img width="814" height="1030" alt="Screenshot 2026-08-30 220254" src="https://github.com/user-attachments/assets/1dcd7d11-4562-4ab9-8d8d-b5623add172f" />
-<img width="1686" height="498" alt="Screenshot 2026-08-30 220225" src="https://github.com/user-attachments/assets/c319f94e-e699-47b2-a5f4-b4daf32cbcee" />
+<img width="814" height="449" alt="Screenshot 2026-08-30 220254" src="https://github.com/user-attachments/assets/807cc43d-c4a5-43c8-8b9a-4b81bf43eb00" />
+
 
 
 ### GUI Application (Recommended)
